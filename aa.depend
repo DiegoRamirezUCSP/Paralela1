@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710972560 source:e:\eda\aa\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<time.h>
+	<bits/stdc++.h>
+	<iostream>
+	<iomanip>
+	<math.h>
+
